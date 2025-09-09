@@ -31,3 +31,4 @@ func primosLinear(numero int) []int {
 
 
 
+
